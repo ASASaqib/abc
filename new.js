@@ -2,6 +2,7 @@
 // console.log(document.all);
 
 console.log(document.getElementsByTagName("p"));
+console.log(document.getElementsByTagName("Saqib"));
 
 
 
